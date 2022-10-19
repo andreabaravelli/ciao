@@ -1,0 +1,16 @@
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\bin\Debug\provaconPorteSeriali.exe.config
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\bin\Debug\provaconPorteSeriali.exe
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\bin\Debug\provaconPorteSeriali.pdb
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali.csproj.AssemblyReference.cache
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali.csproj.SuggestedBindingRedirects.cache
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\MainWindow.g.cs
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\App.g.cs
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali_MarkupCompile.cache
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali_MarkupCompile.lref
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\MainWindow.baml
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali.g.resources
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali.Properties.Resources.resources
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali.csproj.GenerateResource.cache
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali.csproj.CoreCompileInputs.cache
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali.exe
+C:\Users\ORIANO\source\repos\provaconPorteSeriali\provaconPorteSeriali\obj\Debug\provaconPorteSeriali.pdb

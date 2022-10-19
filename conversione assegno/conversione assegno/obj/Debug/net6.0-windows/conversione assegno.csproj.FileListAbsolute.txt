@@ -1,0 +1,21 @@
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\bin\Debug\net6.0-windows\conversione assegno.exe
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\bin\Debug\net6.0-windows\conversione assegno.deps.json
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\bin\Debug\net6.0-windows\conversione assegno.runtimeconfig.json
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\bin\Debug\net6.0-windows\conversione assegno.dll
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\bin\Debug\net6.0-windows\conversione assegno.pdb
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.csproj.AssemblyReference.cache
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno_MarkupCompile.cache
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno_MarkupCompile.lref
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.g.resources
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.AssemblyInfoInputs.cache
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.AssemblyInfo.cs
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.csproj.CoreCompileInputs.cache
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.dll
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\refint\conversione assegno.dll
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.pdb
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\conversione assegno.genruntimeconfig.cache
+C:\Users\ORIANO\source\repos\conversione assegno\conversione assegno\obj\Debug\net6.0-windows\ref\conversione assegno.dll

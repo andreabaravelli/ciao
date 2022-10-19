@@ -1,0 +1,22 @@
+﻿<Window x:Class="conversione_assegno.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:conversione_assegno"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="306" Width="772">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="166*"/>
+            <RowDefinition Height="125*"/>
+        </Grid.RowDefinitions>
+        <Viewbox Stretch="Uniform" Grid.RowSpan="2"></Viewbox>
+
+
+        <Image Source="https://assegni.net/wp-content/uploads/2015/08/come-compilare-un-assegno-bancario.png"  Width="772" Height="306" Margin="0,0,0,-16" Grid.RowSpan="2" />
+        <Button x:Name="convertitore" Content="converti l'importo"   Margin="0,38,0,0" Width="142" Click="convertitore_Click" Background="Black" Foreground="AliceBlue"  Height="42" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Row="1" />
+        <TextBox x:Name="importo"  Margin="543,0,0,126" TextWrapping="Wrap" Width="176" Height="18"  HorizontalAlignment="Left" VerticalAlignment="Bottom" />
+        <Label x:Name="lettere" Content="" Margin="0,153,148,0" VerticalAlignment="Top" Width="476" HorizontalAlignment="Right" Grid.RowSpan="2"/>
+    </Grid>
+</Window>

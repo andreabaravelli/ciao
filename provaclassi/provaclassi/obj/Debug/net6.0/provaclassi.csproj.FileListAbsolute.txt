@@ -1,0 +1,15 @@
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\bin\Debug\net6.0\provaclassi.exe
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\bin\Debug\net6.0\provaclassi.deps.json
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\bin\Debug\net6.0\provaclassi.runtimeconfig.json
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\bin\Debug\net6.0\provaclassi.dll
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\bin\Debug\net6.0\provaclassi.pdb
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\provaclassi.csproj.AssemblyReference.cache
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\provaclassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\provaclassi.AssemblyInfoInputs.cache
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\provaclassi.AssemblyInfo.cs
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\provaclassi.csproj.CoreCompileInputs.cache
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\provaclassi.dll
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\refint\provaclassi.dll
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\provaclassi.pdb
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\provaclassi.genruntimeconfig.cache
+C:\Users\ORIANO\source\repos\provaclassi\provaclassi\obj\Debug\net6.0\ref\provaclassi.dll
